@@ -1,4 +1,4 @@
-# 🎮 Tic-Tac-Toe Emotion (Dark Theme)
+# 🎮 Tic-Tac-Toe By Rayan (Dark Theme)
 
 Un jeu de **Morpion (Tic-Tac-Toe)** développé en **Python avec Tkinter**, avec un **thème sombre moderne** et des **émotions intégrées** pour rendre l’expérience plus fun.  
 Créé par **Rayan**.
