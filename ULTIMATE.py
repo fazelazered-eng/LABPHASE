@@ -4,7 +4,7 @@ import random
 
 # --------- Initialisation de la fenêtre ---------
 root = tk.Tk()
-root.title("Tic-Tac-Toe Emotion - Dark Theme")
+root.title("Tic-Tac-Toe By Rayan - Dark Theme")
 root.geometry("675x600")
 root.configure(bg="#1e1e1e")  # fond sombre
 
